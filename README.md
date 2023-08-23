@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I can see u 👁️</h3>
 
 - 👨‍💻 All of my projects are available [here](https://srfennec.github.io/about/)
 

@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://srfennec.github.io/about/](https://srfennec.github.io/about/)
+- 👨‍💻 All of my projects are available [here](https://srfennec.github.io/about/)
 
 <p align="left">
 </p>
